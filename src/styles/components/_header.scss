@@ -1,0 +1,24 @@
+.header {
+    background: $dark-blue;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+
+.header-items {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.header-item {
+    color: $off-white;
+    font-size: $m-size;
+    text-decoration: none;
+}
+
+.header-title {
+    color: $off-white;
+    font-size: $l-size;
+    text-decoration: none;
+}
